@@ -101,3 +101,7 @@ curl -X POST https://i8yb23jceb.execute-api.us-east-1.amazonaws.com/convert \
   -d '{"from":"USD","to":"GTQ","amount":100}'
 {"from":"USD","to":"GTQ","amount":100,"result":778}
 ```
+
+### Console screenshot
+
+![Console output](infra/evidence/evidence.png)
